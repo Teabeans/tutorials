@@ -1,4 +1,4 @@
-  <p style="center", font="courier">
+  <p style="text-align:center;font-family:courier;">
   ```
                             *@%&&&=--                      
        .@%.                  .&****(@                      
