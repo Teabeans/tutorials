@@ -26,8 +26,11 @@
                           .@%/*****##                      
                               ,&&%(#%                      
 ```
+# GitHub - Getting Started
 
-Step 1 - Login to Github and fork the repository
+
+
+## Step 1 - Login to Github and fork the repository
 You get a copy of the repo to your own account!
 
 Get Windows Terminal - Better version of command prompt
